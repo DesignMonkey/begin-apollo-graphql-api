@@ -6,6 +6,7 @@ art-evn
 @http
 post /graphql
 get /
+get /testing
 
 @tables
 data
